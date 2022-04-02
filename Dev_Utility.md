@@ -18,7 +18,7 @@
 
 |                |                                               | |
 | :------------- | :----------                                   | ----------: |
-| `Devdocs` | https://www.devdocs.io                             | Combines multiple API DOC|
+| `Devdocs` | https://www.devdocs.io                             | Combines multiple API Documentation|
 
 <br />
 
