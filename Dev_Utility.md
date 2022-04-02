@@ -14,7 +14,13 @@
 
 -->
 
+## API
 
+|                |                                               | |
+| :------------- | :----------                                   | ----------: |
+| `Devdocs` | https://www.devdocs.io                             | Combines multiple API DOC|
+
+<br />
 
 ## Astronomy, Science and Space
 
