@@ -54,6 +54,7 @@
 | `BlueHost`     | https://www.bluehost.com/cs |
 | `Fastly`       | https://www.fastly.com/ |
 | `Hostgator`    | https://www.hostgator.com |
+| `Hostinger`    | https://www.hostinger.com/ |
 | `Linode`       | https://www.linode.com/ |
 | `Nextcloud`    | https://nextcloud.com/ |
 | `Siteground`   | https://www.siteground.com |
